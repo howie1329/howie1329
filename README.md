@@ -1,11 +1,12 @@
 ### Hi there 👋
+[![Howard's GitHub stats](https://github-readme-stats.vercel.app/api?username=howie1329)](https://github.com/howie1329/github-readme-stats)
 
 <!--
 **howie1329/howie1329** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-[![Howard's GitHub stats](https://github-readme-stats.vercel.app/api?username=howie1329)](https://github.com/howie1329/github-readme-stats)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
