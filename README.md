@@ -5,7 +5,8 @@
 - MongoDb
 - Next.js
 - PostgresSQL
-- 
+- Redux
+
 [![Howard's GitHub stats](https://github-readme-stats.vercel.app/api?username=howie1329)](https://github.com/howie1329/github-readme-stats)
 
 <!--
