@@ -7,7 +7,7 @@
 # 💫About Me :
 🔭 I’m currently working on Home Books (Expanded Library Content Management Web App)
   
-🌱 I’m currently learning : MongoDB, Redux
+🌱 I’m currently learning : Swift UI, IOS Development
 
   📫 How to reach me:  
   Mail me at "howardthomas13@gmail.com"
