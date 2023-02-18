@@ -1,4 +1,12 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Howard Thomas =====================================================================================================================================  Software Developer ------------------  * 🌍  I'm based in East Coast, USA * ✉️  You can contact me at [howardthomas13@gmail.com](mailto:howardthomas13@gmail.com) * 🚀  I'm currently working on [Home Books](http://github.com/howie1329/Home-Books) * 🧠  I'm learning Swift, Swift UI
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Howard Thomas 
+<br></br>
+=====================================================================================================================================
+Software Developer
+===================
+* 🌍  I'm based in East Coast, USA 
+* ✉️  You can contact me at [howardthomas13@gmail.com](mailto:howardthomas13@gmail.com) 
+* 🚀  I'm currently working on [Home Books](http://github.com/howie1329/Home-Books) 
+* 🧠  I'm learning Swift, Swift UI
 
 ### Skills  
 
