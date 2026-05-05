@@ -1,21 +1,66 @@
-<h1 align="center">Hi 👋, I'm Howard</h1>
-<h3 align="center">A passionate fullstack developer </h3>
+# Howard Thomas
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=howie1329&label=Profile%20views&color=0e75b6&style=flat" alt="howie1329" /> </p>
+I build AI-native productivity tools, full-stack web apps, and developer workflows that make complex work feel more manageable.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=howie1329" alt="howie1329" /></a> </p>
+Most of my recent work sits at the intersection of product engineering, AI-assisted workflows, and clean developer experience: SvelteKit, Next.js, Convex, TypeScript, modern UI systems, and practical agent tooling.
 
-- 🔭 I’m currently working on [Workout Pal](https://github.com/howie1329/WorkoutPal)
+## What I Build
 
-- 🌱 I’m currently learning **Next Js.**
+- AI-first productivity workspaces with chat, memory, artifacts, notes, and project context
+- Full-stack apps with realtime data, authentication, polished UI, and clear product direction
+- Developer tooling that helps teams work better with coding agents and AI-assisted development
+- Focused, keyboard-friendly interfaces for capture, writing, retrieval, and execution
 
-- 📫 How to reach me **howardthomas13@gmail.com**
+## Featured Projects
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### [Launchpad](https://github.com/howie1329/Launchpad)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=howie1329&show_icons=true&locale=en&layout=compact" alt="howie1329" /></p>
+A chat-first workspace for solo developers and indie hackers to turn rough ideas into scoped work before over-building. Launchpad uses threads, artifacts, projects, and an AI assistant that can read and write workspace data through tools.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=howie1329&show_icons=true&locale=en" alt="howie1329" /></p>
+**Stack:** SvelteKit, Svelte 5, TypeScript, Convex, Convex Auth, Tailwind CSS v4, shadcn-svelte, Vercel AI SDK, OpenRouter, CodeMirror, Streamdown
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=howie1329&" alt="howie1329" /></p>
+### [Taskflow](https://github.com/howie1329/taskflow)
+
+An AI-native productivity workspace built around capturing ideas, organizing tasks/projects/notes, and using embedded AI to reason over context. The monorepo includes a Next.js + Convex app and a reusable context compaction package.
+
+**Stack:** Next.js, React, TypeScript, Convex, Tailwind CSS, shadcn UI, Radix, Vercel AI SDK, Firecrawl, Tavily, Exa, Supermemory, Lexical
+
+### [ListIt](https://github.com/howie1329/Listit)
+
+A keyboard-driven bookmarking and lightweight knowledge retrieval app. ListIt helps users save links, organize bookmarks, enrich saved content in the background, and ask grounded questions with citations from their own saved material.
+
+**Stack:** SvelteKit, TypeScript, Convex, Convex Auth, AI enrichment, retrieval, vector-style search patterns, Tailwind CSS, shadcn-svelte
+
+### [H3 Ink](https://github.com/howie1329/h3ink)
+
+A desktop-first Markdown note-taking app focused on local files, fast writing feedback, and minimal chrome. Built as a monorepo with an Electron desktop app and a companion marketing/download site.
+
+**Stack:** Electron, Vite, React, TypeScript, TipTap, Turborepo, npm workspaces, Next.js
+
+### [Howard AgentKit](https://github.com/howie1329/Howard-AgentKit)
+
+A CLI for bootstrapping AI-agent-ready repositories. It installs reusable instructions, planning templates, review docs, design system rules, and workflow guidance for teams using Codex, Cursor, Claude Code, GitHub Copilot, and similar tools.
+
+**Stack:** TypeScript, Node.js, CLI tooling, templates, config-driven scaffolding
+
+## Core Stack
+
+**Languages:** TypeScript, JavaScript  
+**Frontend:** React, Next.js, SvelteKit, Svelte 5, Tailwind CSS, shadcn UI, shadcn-svelte, Radix, Bits UI  
+**Backend:** Convex, Convex Auth, API routes, realtime data patterns  
+**AI:** Vercel AI SDK, OpenRouter, model routing, tool calling, retrieval, memory, context compaction  
+**Product/UI:** polished app shells, chat interfaces, artifact editors, note systems, keyboard-driven workflows  
+**Tooling:** Turborepo, npm workspaces, Electron, Vite, CLI design, agent-ready repo templates
+
+## Current Focus
+
+I’m especially interested in:
+
+- AI-native software that works with real user context
+- Productive developer workflows for human + AI collaboration
+- Fast, focused interfaces for thinking, writing, planning, and executing
+- Simple architectures that can grow without becoming hard to understand
+
+## Links
+
+- GitHub: [github.com/howie1329](https://github.com/howie1329)
