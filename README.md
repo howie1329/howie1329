@@ -32,7 +32,11 @@ A keyboard-driven bookmarking and lightweight knowledge retrieval app. ListIt he
 **Stack:** SvelteKit, TypeScript, Convex, Convex Auth, AI enrichment, retrieval, vector-style search patterns, Tailwind CSS, shadcn-svelte
 
 ### [H3 Code](https://github.com/howie1329/H3Code)
-H3Code is a local desktop UI shell for running PI Agent against local code repositories. It is built with Electron, SvelteKit, TypeScript, Tailwind CSS, and shadcn-svelte, and communicates with PI through pi --mode rpc over JSONL stdin/stdout. The desktop app lets developers select a local repo, launch or connect to PI Agent with that repo as the working directory, browse PI-owned sessions, send prompts, steer or follow up during active runs, abort work, and view streaming assistant output, transcript messages, tool activity, diagnostics, session stats, and diffs. H3Code intentionally does not replace PI Agent. PI owns sessions, messages, tools, model behavior, queueing, compaction, retry, and canonical history. H3Code owns the local desktop experience around that runtime: Electron lifecycle, repo selection, RPC connection state, renderer state, UI layout, diagnostics, and minimal local preferences. 
+H3Code is an MVP desktop UI shell for PI Agent (RPC). It wraps PI’s runtime (pi --mode rpc) in an Electron + SvelteKit app to
+provide repo selection, session listing/switching, sending prompts, streaming assistant output, rendering tool blocks, aborting runs, and connection diagnostics. PI Agent remains the source-of-truth for sessions, messages, tools, and credentials; H3Code stores only lightweight metadata (recent repos, session summaries) in a local SQLite index.
+
+Stack: Electron 39, SvelteKit 2 / Svelte 5, TypeScript 5.9, Tailwind v4, Turborepo/Vite.
+(requires pi on PATH).
 
 ### [H3 Ink](https://github.com/howie1329/h3ink)
 
