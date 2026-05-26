@@ -31,6 +31,9 @@ A keyboard-driven bookmarking and lightweight knowledge retrieval app. ListIt he
 
 **Stack:** SvelteKit, TypeScript, Convex, Convex Auth, AI enrichment, retrieval, vector-style search patterns, Tailwind CSS, shadcn-svelte
 
+### [H3 Code](https://github.com/howie1329/H3Code)
+H3Code is a local desktop UI shell for running PI Agent against local code repositories. It is built with Electron, SvelteKit, TypeScript, Tailwind CSS, and shadcn-svelte, and communicates with PI through pi --mode rpc over JSONL stdin/stdout. The desktop app lets developers select a local repo, launch or connect to PI Agent with that repo as the working directory, browse PI-owned sessions, send prompts, steer or follow up during active runs, abort work, and view streaming assistant output, transcript messages, tool activity, diagnostics, session stats, and diffs. H3Code intentionally does not replace PI Agent. PI owns sessions, messages, tools, model behavior, queueing, compaction, retry, and canonical history. H3Code owns the local desktop experience around that runtime: Electron lifecycle, repo selection, RPC connection state, renderer state, UI layout, diagnostics, and minimal local preferences. 
+
 ### [H3 Ink](https://github.com/howie1329/h3ink)
 
 A desktop-first Markdown note-taking app focused on local files, fast writing feedback, and minimal chrome. Built as a monorepo with an Electron desktop app and a companion marketing/download site.
