@@ -46,7 +46,7 @@ A desktop-first Markdown note-taking app focused on local files, fast writing fe
 
 ### [Howard AgentKit](https://github.com/howie1329/Howard-AgentKit)
 
-A CLI for bootstrapping AI-agent-ready repositories. It installs reusable instructions, planning templates, review docs, design system rules, and workflow guidance for teams using Codex, Cursor, Claude Code, GitHub Copilot, and similar tools.
+Bootstrap repos for AI-assisted development — install AGENTS.md, workflow guides, stack presets, and tool adapters for Cursor, Codex, Claude & Copilot, or use the bundled agent skill.
 
 **Stack:** TypeScript, Node.js, CLI tooling, templates, config-driven scaffolding
 
