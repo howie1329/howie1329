@@ -7,11 +7,17 @@ Most of my recent work sits at the intersection of product engineering, AI-assis
 ## What I Build
 
 - AI-first productivity workspaces with chat, memory, artifacts, notes, and project context
-- Full-stack apps with realtime data, authentication, polished UI, and clear product direction
+- Full-stack apps with real-time data, authentication, polished UI, and clear product direction
 - Developer tooling that helps teams work better with coding agents and AI-assisted development
 - Focused, keyboard-friendly interfaces for capture, writing, retrieval, and execution
 
 ## Featured Projects
+
+### [Slate](https://github.com/howie1329/Slate)
+
+A local-first macOS planner for solo knowledge workers to turn an overloaded task list into a realistic daily commitment. Slate combines a menu-bar popover, Today and Backlog views, task estimates, capacity budgets, local persistence, and review-first AI planning.
+
+**Stack:** Tauri 2, React 19, TypeScript, Vite, TanStack Router, TanStack Query, Tailwind CSS v4, Base UI, Rust, SQLite (rusqlite), macOS Keychain
 
 ### [Launchpad](https://github.com/howie1329/Launchpad)
 
